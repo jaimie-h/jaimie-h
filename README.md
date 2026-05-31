@@ -1,4 +1,4 @@
-Nothing to see here... these are not the droids you're looking for... move along.
+This is my public repository - files here are freely available for download.
 
 <!---
 jaimie-h/jaimie-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
